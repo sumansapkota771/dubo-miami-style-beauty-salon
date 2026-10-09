@@ -66,5 +66,5 @@ const server = http.createServer(async (req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`Gabriel Samra clone running at http://localhost:${PORT}`);
+  console.log(`Dubo Miami Style Beauty Salon running at http://localhost:${PORT}`);
 });

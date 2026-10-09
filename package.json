@@ -1,9 +1,9 @@
 {
-  "name": "gabriel-samra-clone",
+  "name": "dubo-miami-style-beauty-salon",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Exact mirror of gabriels-salon-book.lovable.app",
+  "description": "Dubo Miami Style Beauty Salon website",
   "scripts": {
     "dev": "node server.mjs",
     "start": "node server.mjs"
