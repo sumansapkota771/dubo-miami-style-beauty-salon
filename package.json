@@ -1,0 +1,11 @@
+{
+  "name": "gabriel-samra-clone",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Exact mirror of gabriels-salon-book.lovable.app",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}

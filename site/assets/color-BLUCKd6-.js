@@ -1,0 +1,1 @@
+var e=`/assets/color-BPxF7-tA.jpg`;export{e as t};
