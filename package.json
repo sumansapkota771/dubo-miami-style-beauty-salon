@@ -6,6 +6,8 @@
   "description": "Dubo Miami Style Beauty Salon website",
   "scripts": {
     "dev": "node server.mjs",
-    "start": "node server.mjs"
+    "start": "node server.mjs",
+    "build:pages": "node scripts/build-pages.mjs",
+    "serve:pages": "node scripts/serve-pages.mjs"
   }
 }
